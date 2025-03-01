@@ -28,6 +28,10 @@ top 100 cryptocurrency coins paginated, showing 20 characters per page. It suppo
 2. The coin images are in SVG format and iOS does not have native support for SVG images in UIImageView.
    Sol: Leveraged SDWebImageSVGCoder a third-party library that extends SDWebImage to support loading SVG images into UIImageview.
 
+
+## wip
+- settings
+- more unit tests.
  
 ## Attributions
 Used images for walkthrough screens from : [
